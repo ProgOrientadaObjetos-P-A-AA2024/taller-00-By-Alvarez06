@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package paquete3;
+import paquete5.Dato;
 
 /**
  *
